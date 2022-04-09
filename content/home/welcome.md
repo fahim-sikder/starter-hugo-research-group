@@ -18,4 +18,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **Reasoning and Learning Lab (ReaL)** does fundamental AI research on algorithms, techniques and methods for machine reasoning, machine learning, and the integration of reasoning and learning.

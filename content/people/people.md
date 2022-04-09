@@ -18,8 +18,9 @@ content:
   user_groups:
     - Faculty
     - Research Engineers
-    - Post Doc
+    - Postdoc
     - PhD Students
+    - Amanuens
     - Alumni
 design:
   show_interests: false
